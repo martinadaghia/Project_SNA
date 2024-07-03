@@ -1,31 +1,20 @@
 Beak, M
-Beescratch
-Bumper
-CCL
-Cross
-DN16, F
+SN90, M
+SN96, M
+Topless, M
+Upbang, M
+Web, M
 DN21, M
 DN63, M
-Double, F
 Feather, M
-Fish, F
-Five, F
-Fork
 Gallatin, M
-Grin, F
 Haecksel, M
-Hook, F
 Jet, M
 Jonah, M
 Knit, M
-Kringel, F
 MN105, M
-MN23
-MN60
 MN83, M
-Mus
 Notch, M
-Number1
 Oscar, M
 Patchback, M
 PL, M
@@ -33,35 +22,18 @@ Quasi, M
 Ripplefluke, M
 Scabs, F
 Shmuddel, F
-SMN5
-SN100
 SN4, F
 SN63, F
 SN89, F
-SN9
-SN90, M
-SN96, M
 Stripes, F
-Thumper
-Topless, M
-TR120
-TR77
-TR82
+Double, F
 TR, F
-TR99
-Trigger, F
-TSN103
-TSN83
-Upbang, M
-Vau
 Wave, F
-Web, M
+Trigger, F
+DN16, F
 Whitetip, F
-Zap
-Zig
-Zipfel
-
-
-
-
-TOTALE (CHE HO CONTATO IO A MANO PERCHè CHAT SVALVOLAVA) 22 MASCHI E 17 FEMMINE 
+Fish, F
+Five, F
+Kringel, F
+Hook, F
+Grin, F
