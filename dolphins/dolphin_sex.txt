@@ -27,7 +27,7 @@ SN63, F
 SN89, F
 Stripes, F
 Double, F
-TR, F
+TR88, F
 Wave, F
 Trigger, F
 DN16, F
